@@ -55,17 +55,19 @@
     <!-- ======= Contact Section ======= -->
     <section id="wfd" class="wfd section-bg">
       <div class="container" data-aos="fade-up" data-aos-delay="100">
-        <div class="row">
-        <div class="col-sm">
-      <div class="d-flex justify">
 
-      <div style="border-radius: 5px;" class="word-from-the-director">
-                        <div class="pic">
-                            <img src="assets/img/directeur.jpg" alt="">
-                        </div>
-                        <br/><br/>
-                        <h3 class="word-from-the-director-title">Mot du Directeur</h3>
-                        <span class="post"></span>
+
+        <div class="row">
+          <div class="col-sm">
+            <div class="d-flex justify">
+
+
+              <div style="border-radius: 5px;" class="word-from-the-director">
+                <div class="pic">
+                  <img src="assets/img/directeur.jpg" alt="">
+                </div><br/><br/>
+                    <h3 class="word-from-the-director-title">Mot du Directeur</h3>
+                      <span class="post"></span>
                         <p class="description">
                             " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem commodi eligendi facilis itaque minus non odio, quaerat ullam unde voluptatum?
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem commodi eligendi facilis itaque minus non odio, quaerat ullam unde voluptatum?
@@ -77,22 +79,22 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem commodi eligendi facilis itaque minus non odio, quaerat ullam unde voluptatum?
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem commodi eligendi facilis itaque minus non odio, quaerat ullam unde voluptatum? "
                         </p>
-                        <h3 class="word-from-the-director-title">Bourhim Tarik</h3>
-                        <span class="post">Directeur T.T.S.Y.G</span>
-                        <br/>
-                        <ul class="word-from-the-director-rating">
-                            
-                            <li class="">  <img style="pointer-events: none;" height="88px" src="assets/img/signature.png" alt=""> </li>
+                          <h3 class="word-from-the-director-title">Bourhim Tarik</h3>
+                          <span class="post">Directeur T.T.S.Y.G</span>
+                          <br/>
+                          <ul class="word-from-the-director-rating">
+                          <li class=""><img style="pointer-events: none;" height="88px" src="assets/img/signature.png" alt=""></li>
                         </ul>
-                    </div>
-         
-      </div>
-        </div>
+              </div>
 
-        <?php include 'suivez-nous.php' ?>
+              
+         
+            </div>
+          </div>
+                <?php include 'suivez-nous.php' ?>
         
         
-      </div>   
+        </div>   
       </div>
 
       

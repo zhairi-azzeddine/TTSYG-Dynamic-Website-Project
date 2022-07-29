@@ -231,3 +231,14 @@ allImages.forEach((value)=>{
 
 
 
+$(document).ready(function() {
+  $('#m1').hover(function() {
+    $('#m2').css('width', '160px');
+    $('#m2').css('display', 'block');
+  }, function() {
+    // on mouseout, reset the background colour
+    $('#m2').css('display', 'none');
+    $('#m2').css('width', '150px');
+
+  });
+});

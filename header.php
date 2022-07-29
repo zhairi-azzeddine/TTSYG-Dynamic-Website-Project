@@ -4,7 +4,8 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="accueil" class="logo d-flex align-items-center">
-        <img src="assets/img/logo/logomin.png" >
+        <img id="m1" class="m1" src="assets/img/logo/logomin.png" >
+        <img id="m2" class="m2" src="assets/img/logo/logomin2.png" >
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -33,6 +34,7 @@
                     <li><a href="#">Cinéma</a></li>
                     <li><a href="#">Musique</a></li>
                   </ul>
+                  <li><a href="preinscription">Preinscription en ligne</a></li>
                </ul>
 
           
@@ -84,3 +86,4 @@
 
     </div>
   </header><!-- End Header -->
+
